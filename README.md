@@ -246,9 +246,9 @@ This project is licensed under the MIT License.
 
 For questions, suggestions, or collaboration opportunities, please reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: archismanmukherjee500@gmail.com
+- **GitHub**: [@username](https://github.com/RONY-18)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/archisman-mukherjee-b6630a276/)
 
 ## 🚀 Future Enhancements
 
